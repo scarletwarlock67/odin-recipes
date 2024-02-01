@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Skillet Chicken Pasta</title> 
+    <title>Skillet Chicken Pasta</title>
 </head>
 <body>
- <h1>Skillet Chicken Pasta</h1><br/>
+    <h1>Skillet Chicken Pasta</h1><br/>
   <img src="../images/chickenpasta.jpg" alt="Skillet Chicken Pasta">
    <h3>Description</h3>
     <p>
@@ -59,7 +59,6 @@
     <li>
         Toss chicken and vegetables with tomato sauce and hot pasta. Serve sprinkled with Parmesan cheese.
     </li>
-  </ol>
-  
+  </ol> 
 </body>
 </html>
